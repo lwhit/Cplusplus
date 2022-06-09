@@ -1,1 +1,1 @@
-# Cplusplus
+# This is a template project
